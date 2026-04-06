@@ -27,9 +27,6 @@ total_mem=$(vmstat --unit M | tail -1 | awk '{print $4}')
 # Current time in `2019-11-26 14:40:19` UTC format
 timestamp=$(vmstat -t | tail -1 | awk '{print $(NF-1), $NF}') #todo
 
-# Subquery to find matching id in host_info table
-host_id="(SELECT id FROM host_name WHERE hostname='$hostname')";
-
 # PSQL command: Inserts server usage data into host_usage table
 # Note: be careful with double and single quotes
 insert_stmt="INSERT INTO host_info(timestamp, hostname, cpu_number, cpu_architecture, cpu_model, cpu_mhz, l2_cache, total_mem) VALUES('$timestamp', '$hostname', '$cpu_number', '$cpu_architecture', '$cpu_model', '$cpu_mhz', '$l2_cache', '$total_mem')"
