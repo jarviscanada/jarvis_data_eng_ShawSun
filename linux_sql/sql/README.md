@@ -15,6 +15,8 @@ The primary users are trainees who need SQL for real work or interviews, includi
 - psql / SQL client tools to execute and test queries
 ```
 # SQL Queries
+### ERD
+![tables](assets/tables.png)
 
 ###### Table Setup (DDL)
 ```cd.members``` table
