@@ -23,7 +23,7 @@ VALUES
         800
     );
 
-`` Question 3:
+-- Question 3:
 UPDATE
   cd.facilities
 SET
