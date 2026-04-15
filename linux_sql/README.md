@@ -107,9 +107,6 @@ Usage:
 # Open crontab
 crontab -e
 
-# within crontab, add following
-* * * * * bash /home/centos/dev/jrvs/bootcamp/linux_sql/host_agent/scripts/host_usage.sh localhost 5432 host_agent postgres password > /tmp/host_usage.log
-
 # list crontab jobs
 crontab -l
 
