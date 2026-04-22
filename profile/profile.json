@@ -1,0 +1,138 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "GPA: 3.9/4.0"
+      ],
+      "degree": "Master of Data Science",
+      "department": "Department of Mathematics and Statistics",
+      "duration": "Sep 2024 - Aug 2025",
+      "school_name": "University of Guelph"
+    },
+    {
+      "awards_achievements": [
+        "GPA: 3.5/4.0",
+        "Dean's List: Fall 2020, Spring 2021, Spring 2022"
+      ],
+      "degree": "Bachelor of Science in Computational Modeling and Data Analysis",
+      "department": "College of Science",
+      "duration": "Aug 2019 - Dec 2023",
+      "school_name": "Virginia Tech"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_ShawSun",
+  "highlighted_projects": [
+    {
+      "description": "Implemented a stock price prediction project using Reuters news data to support research and backtesting, implemented a scalable ETL pipeline for 10M+ new records and standardized JSON-to-tabular ingestion while operationalizing Llama2-13B embeddings as sentiment and feature inputs for downstream ML models, evaluated performance with log loss, accuracy, and return-based metrics, and improved predictive stability and estimated strategy ROI through feature and threshold tuning.",
+      "name": "Stock Prices Prediction via LLM"
+    },
+    {
+      "description": "Developed a RAG-based Text2SQL system for complex query generation, using DeepSeek-R1:8B, SentenceTransformers, and FAISS to retrieve relevant schema context and improve prompt grounding for multi-table and nested SQL tasks, tested the system on the Spider benchmark and analyzed error patterns with Ridge Regression bias-variance decomposition, resulting in an accuracy gain from 16% to 72% and clearer insight into underfitting on smaller schemas.",
+      "git_url": "https://github.com/Nus0202/Text2SQL_with_RAG",
+      "name": "Text2SQL system with RAG"
+    },
+    {
+      "description": "Built a phishing email detection system for multi-domain email datasets, implemented a fine-tuned BERT model with stratified sampling, distributed training, and dynamic learning-rate scheduling to improve training efficiency and maintain robustness, tested performance across datasets including SpamAssassin, Enron, and Kaggle, and delivered a Streamlit dashboard for risk and compliance teams to inspect model decisions, monitor false positives, and simulate email threat scenarios in real time.",
+      "git_url": "https://github.com/Nus0202/BERT_phishing_email_detector",
+      "name": "Phishing Email Detector"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "Developed a Linux Cluster Monitoring Agent for the Jarvis LCA team to collect server hardware and real-time CPU/memory usage data for resource planning, implemented with Linux command line, Bash scripts, PostgreSQL, Docker, cron, Git, and GitHub, manually tested the scripts and validated SQL query results against test data, and deployed the PostgreSQL instance in Docker with scheduled data collection through cron.",
+      "git_url": "/linux_sql",
+      "name": "Cluster Monitor"
+    },
+    {
+      "description": [
+        "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
+        "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
+        "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      ],
+      "git_url": "/core_java",
+      "name": "Core Java Apps"
+    },
+    {
+      "description": "",
+      "git_url": "/springboot",
+      "name": "Springboot App"
+    },
+    {
+      "description": "",
+      "git_url": "/python_data_anlytics",
+      "name": "Python Data Analytics"
+    },
+    {
+      "description": "",
+      "git_url": "/hadoop",
+      "name": "Hadoop"
+    },
+    {
+      "description": "",
+      "git_url": "/spark",
+      "name": "Spark"
+    },
+    {
+      "description": "",
+      "git_url": "/cloud_devops",
+      "name": "Cloud/DevOps"
+    }
+  ],
+  "name": "Shaw Sun",
+  "others": [
+    {
+      "bullets": [
+        "Basketball player",
+        "Long driving trip",
+        "Competitive gaming"
+      ],
+      "title": "Activities/Hobbies"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "University of Guelph",
+      "description": "Built and maintained an automated ETL workflow in Python and SQL to process 12M+ news records for market-narrative analytics, implemented standardized KPI dataset generation along with log analysis, error reproduction, and root cause analysis to improve pipeline reliability, validated outputs and monitored daily workflow performance, and reduced data refresh time by 50%+ while lowering recurring processing failures.",
+      "duration": "Nov 2025 - Jan 2026",
+      "title": "Research Assistant (Prof. Zhenzhen Fan)"
+    },
+    {
+      "company": "University of Guelph",
+      "description": "Analyzed datasets for downstream reporting and financial modeling using Python, SQL, and Excel, implemented data quality monitoring and validation checks for schema issues, duplicates, missingness, and category/ticker distribution drift, investigated recurring defects through anomaly tracking and root cause analysis, and evaluated model performance with walk-forward validation, leakage-controlled out-of-sample backtesting, and ML/quant metrics including AUC, MAE, RMSE, and Sharpe ratio, reducing recurring data issues by 30%+.",
+      "duration": "May 2025 - Aug 2025",
+      "title": "Research Assistant (Prof. Fred Liu)"
+    },
+    {
+      "company": "Baidu, Inc",
+      "description": "Designed and optimized SQL-based ETL workflows for an enterprise LLM product, implemented data validation automation, duplicate checks, and job monitoring to improve data accuracy by 15% and reduce pipeline runtime, monitored production health through log analysis, dependency checks, and data reconciliation, and supported daily operations by triaging incidents, resolving recurring failures, and performing root cause analysis on model misalignment caused by label noise, feature drift, and distribution drift.",
+      "duration": "May 2023 - Aug 2023",
+      "title": "Data Scientist (Intern)"
+    }
+  ],
+  "skills": {
+    "competent": [
+      "Scikit-Learn",
+      "Databricks",
+      "LLM Fine-Tuning",
+      "Machine Learning Models",
+      "ETL pipelines"
+    ],
+    "familiar": [
+      "PySpark",
+      "PyTorch",
+      "Java",
+      "C",
+      "Excel/Pivot Table"
+    ],
+    "proficient": [
+      "Python",
+      "RDBMS/SQL",
+      "Pandas/Numpy",
+      "Linux/Bash",
+      "Agile/Scrum",
+      "Git",
+      "SDLC"
+    ]
+  },
+  "summary": "I recently graduated from the University of Guelph with a Master of Data Science and have experience in research and industry settings working on data pipelines, data quality, analytics, and machine learning projects. My work has involved Python, SQL, Excel, ETL development, workflow monitoring, troubleshooting, and model evaluation, with a focus on building reliable and practical data solutions. I am seeking Data Analyst/Engineer/Scientist, or Machine Learning-related roles where I can apply both technical and problem-solving skills. I offer a strong foundation in data work, clear communication, careful analysis, and the ability to support projects from data preparation to evaluation and reporting."
+}
