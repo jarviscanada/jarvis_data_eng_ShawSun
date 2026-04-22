@@ -44,6 +44,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_ShawSun](h
 
 ## Professional Experiences
 
+**Data Engineer, Jarvis Consulting Group (Apr 2026 - Present)**: Worked as a Data Engineer at Jarvis, delivering multiple projects from system-level development to data analysis tasks, using Bash, Docker, Python, RDBMS, SQL, Linux, Git, and data visualization tools to build, test, and support practical data solutions, while continuing to contribute to additional ongoing projects in a fast-paced team environment.
+
 **Research Assistant (Prof. Zhenzhen Fan), University of Guelph (Nov 2025 - Jan 2026)**: Built and maintained an automated ETL workflow in Python and SQL to process 12M+ news records for market-narrative analytics, implemented standardized KPI dataset generation along with log analysis, error reproduction, and root cause analysis to improve pipeline reliability, validated outputs and monitored daily workflow performance, and reduced data refresh time by 50%+ while lowering recurring processing failures.
 
 **Research Assistant (Prof. Fred Liu), University of Guelph (May 2025 - Aug 2025)**: Analyzed datasets for downstream reporting and financial modeling using Python, SQL, and Excel, implemented data quality monitoring and validation checks for schema issues, duplicates, missingness, and category/ticker distribution drift, investigated recurring defects through anomaly tracking and root cause analysis, and evaluated model performance with walk-forward validation, leakage-controlled out-of-sample backtesting, and ML/quant metrics including AUC, MAE, RMSE, and Sharpe ratio, reducing recurring data issues by 30%+.

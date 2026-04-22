@@ -91,6 +91,12 @@
   ],
   "professional_experience": [
     {
+      "company": "Jarvis Consulting Group",
+      "description": "Worked as a Data Engineer at Jarvis, delivering multiple projects from system-level development to data analysis tasks, using Bash, Docker, Python, RDBMS, SQL, Linux, Git, and data visualization tools to build, test, and support practical data solutions, while continuing to contribute to additional ongoing projects in a fast-paced team environment.",
+      "duration": "Apr 2026 - Present",
+      "title": "Data Engineer"
+    },
+    {
       "company": "University of Guelph",
       "description": "Built and maintained an automated ETL workflow in Python and SQL to process 12M+ news records for market-narrative analytics, implemented standardized KPI dataset generation along with log analysis, error reproduction, and root cause analysis to improve pipeline reliability, validated outputs and monitored daily workflow performance, and reduced data refresh time by 50%+ while lowering recurring processing failures.",
       "duration": "Nov 2025 - Jan 2026",
