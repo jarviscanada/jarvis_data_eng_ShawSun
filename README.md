@@ -1,14 +1,4 @@
-<<<<<<< HEAD
-# Jarvis Data Engineering Training
-1. [Linux Cluster Monitoring Agent (Linux and SQL)](./linux_sql) Finished
-2. [Core Java Apps](./core_java) In-progress
-3. [Python Data Analytics](./python_data_analytics) In-progress
-4. [Spring Boot Trading REST API](./springboot) In-progress
-5. [Javascript Front End](./javascript) In-progress
-6. [Cloud/DevOps](./cloud_devops) In-progress
-=======
 # Shaw Sun . Jarvis Consulting
->>>>>>> feature/profile
 
 I recently graduated from the University of Guelph with a Master of Data Science and have experience in research and industry settings working on data pipelines, data quality, analytics, and machine learning projects. My work has involved Python, SQL, Excel, ETL development, workflow monitoring, troubleshooting, and model evaluation, with a focus on building reliable and practical data solutions. I am seeking Data Analyst/Engineer/Scientist, or Machine Learning-related roles where I can apply both technical and problem-solving skills. I offer a strong foundation in data work, clear communication, careful analysis, and the ability to support projects from data preparation to evaluation and reporting.
 
@@ -26,22 +16,6 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_ShawSun](h
 
 
 **Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_ShawSun/tree/master/linux_sql)]: Developed a Linux Cluster Monitoring Agent for the Jarvis LCA team to collect server hardware and real-time CPU/memory usage data for resource planning, implemented with Linux command line, Bash scripts, PostgreSQL, Docker, cron, Git, and GitHub, manually tested the scripts and validated SQL query results against test data, and deployed the PostgreSQL instance in Docker with scheduled data collection through cron.
-
-**Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_ShawSun/tree/master/core_java)]:
-      
-  - Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-
-**Springboot App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_ShawSun/tree/master/springboot)]: Not Started
-
-**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_ShawSun/tree/master/python_data_anlytics)]: Not Started
-
-**Hadoop** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_ShawSun/tree/master/hadoop)]: Not Started
-
-**Spark** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_ShawSun/tree/master/spark)]: Not Started
-
-**Cloud/DevOps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_ShawSun/tree/master/cloud_devops)]: Not Started
 
 
 ## Highlighted Projects
