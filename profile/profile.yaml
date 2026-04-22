@@ -61,6 +61,10 @@ highlighted_projects:
 #The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
 professional_experience:
   #Write your Jarvis role as a professional experience rather than training.
+  - title: "Data Engineer"
+    company: "Jarvis Consulting Group"
+    duration: "Apr 2026 - Present"
+    description: "Worked as a Data Engineer at Jarvis, delivering multiple projects from system-level development to data analysis tasks, using Bash, Docker, Python, RDBMS, SQL, Linux, Git, and data visualization tools to build, test, and support practical data solutions, while continuing to contribute to additional ongoing projects in a fast-paced team environment."
   - title: "Research Assistant (Prof. Zhenzhen Fan)"
     company: "University of Guelph"
     duration: "Nov 2025 - Jan 2026"
